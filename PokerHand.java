@@ -19,6 +19,7 @@ public class PokerHand
         theHand.add(card2);
         theHand.add(card3);  
         //card1, card2, card3
+        //Collections.sort(theHand);
     }
 
     /**
